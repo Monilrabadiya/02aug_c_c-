@@ -1,0 +1,19 @@
+/* Online C Compiler and Editor */
+
+#include <stdio.h>
+
+int main()
+
+{
+
+    printf("my name is rabadiya Monil \n");
+
+    printf("my birthday date is 24/3/2005  \n");
+
+    printf("my age is 17 yers old  \n");
+
+    printf("at.rampar ta. lalpur dis. jamnagr  \n");
+
+    return 0;
+
+}
